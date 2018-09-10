@@ -1,4 +1,5 @@
-# Arch-Orange
+# Arch-Orange  <img src="https://raw.githubusercontent.com/v1nc/arch-beat/master/logo.png" width="100">
+
 ### A beautiful full-featured consistent i3wm arch-linux theme
 <details><summary>Screenshots</summary>
 <p>
